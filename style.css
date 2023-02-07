@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0 ;
+    text-align: center
+}
+
+
+.gbj {
+    font-size: 50px;
+    margin: 0 auto;
+    background-color: purple
+
+}
+h1{
+    /*color: rgb(18, 53, 211);
+    font-size: 40px;
+    background-color: aqua;
+    padding: 50px;
+    background-image: url('progk/images\ \(2\).jfif');
+    border: dotted 4px white;
+    width:220px;
+    margin-left: 600px;*/
+}
+a{
+    text-decoration: none;
+    font-size: 50px;
+    color:aqua;
+}
+a:hover{
+    text-decoration: line-through;
+    background-color: brown;
+    
+}
+#hh{
+    font-size: 200px;
+
+}
